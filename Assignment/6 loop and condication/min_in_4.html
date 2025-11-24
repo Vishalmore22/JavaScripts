@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>min in 4 </title>
+</head>
+
+<body>
+    <script>
+        // wap to find minimum in 4 numbers using nested if else
+        const num1 = 9, num2 = 23, num3 = 23, num4 = 23;
+
+        if (num1 < num2) {
+            if (num1 < num3) {
+                if (num1 < num4) {
+                    console.log("num1 is minimum");
+                } else {
+                    console.log("num4 is minimum");
+                }
+            } else {
+                if (num3 < num4) {
+                    console.log("num3 is minimum");
+                } else {
+                    console.log("num4 is minimum");
+                }
+            }
+        } else {
+            if (num2 < num3) {
+                if (num2 < num4) {
+                    console.log("num2 is minimum");
+                } else {
+                    console.log("num4 is minimum");
+                }
+            } else {
+                if (num3 < num4) {
+                    console.log("num3 is minimum");
+                } else {
+                    if (num1 == num2 && num2 == num3 && num3 == num4) {
+                        console.log("All numbers are equal");
+                    } else {
+                        console.log("num4 is minimum");
+                    }
+                }
+            }
+        }
+
+    </script>
+</body>
+
+</html>
