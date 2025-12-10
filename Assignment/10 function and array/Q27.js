@@ -1,0 +1,26 @@
+// Create a function that groups people by age from an array of person objects.
+function groupByAge(people) {
+    const groups = {};
+
+    for (const person of people) {
+        const age = person.age;
+
+        if (groups[age]) {
+            groups[age].push(person);
+        } else {
+            groups[age] = [person];
+        }
+    }
+
+    return groups;
+}
+
+let people = [
+    { age: "25", name: "jack" },
+    { age: "23", name: "rahul" },
+    { age: "25", name: "noha" },
+    { age: "23", name: "jay" },
+    { age: "25", name: "joa" }
+]
+
+console.log(groupByAge(people));

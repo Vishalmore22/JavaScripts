@@ -1,0 +1,16 @@
+// Create a function that calculates total quantity of all items in a shopping cart array.
+function totalQuantity(cart) {
+    let total = 0;
+
+    for (let i = 0; i < cart.length; i++) {
+        total = total + cart[i].quantity;
+    }
+
+    return total;
+}
+const cart = [
+    { item: "Apple", quantity: 2 },
+    { item: "Banana", quantity: 5 },
+    { item: "Orange", quantity: 3 }
+];
+console.log(totalQuantity(cart));
