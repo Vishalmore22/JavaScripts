@@ -32,4 +32,5 @@ This project demonstrates clean UI design, proper logic separation, timer-based 
 ---
 
 ## 📂 Project Structure
+https://drive.google.com/file/d/1G0ZH0SypNFo7IiQYD77jEKkriZbE-YDQ/view?usp=sharing
 
