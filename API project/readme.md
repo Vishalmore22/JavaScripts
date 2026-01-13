@@ -104,16 +104,6 @@ git clone https://github.com/your-username/ecommerce-website.git
 
 ---
 
-## 👤 Author
-
-**Vishal More**
-Frontend Developer (Beginner)
-
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
 https://github.com/user-attachments/assets/ba20d434-4395-4a49-88b8-9495ab9fe6b5
 
 
