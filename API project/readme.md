@@ -113,4 +113,8 @@ Frontend Developer (Beginner)
 * LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
-video linl : https://drive.google.com/file/d/1hBYkkmFR-1HwScM3A-G90V1v-UgIp8lU/view?usp=sharing
+
+https://github.com/user-attachments/assets/ba20d434-4395-4a49-88b8-9495ab9fe6b5
+
+
+
